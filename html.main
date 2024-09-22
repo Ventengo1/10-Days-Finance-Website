@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Finance Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to my Finance Website</h1>
+    </header>
+
+    <section id="budget-calculator">
+        <h2>Budget Calculator</h2>
+        <form>
+            </form>
+    </section>
+
+    <section id="investment-tracker">
+        <h2>Investment Calculator (gotta add code to this) (built something similar in past just norma claulator not invetsemnt one)</h2>
+        </section>
+
+    <section id="financial-tips">
+        <h2>Financial Tips</h2>
+        <ul>
+            <li>Tip 1: Create a budget and stick to it. Don't spend all of your money at once. Whether it's income from a job or just Birthday money, it simportanat to save at least a part of it. Investing it is a great choice but even putting it in a savings account works too.</li>
+          
+            <li>Tip 2: Start saving for retirement early. Ask your parenst to help you, the earlier you start the better. Above we (willsoon) have a fiance calulator which can help you calculate your return over a specific amount of time.</li>
+            <li>Tip 3: Invest wisely and diversify your portfolio. (should add more this this too.)</li>
+        </ul>
+    </section>
+</body>
+</html>
